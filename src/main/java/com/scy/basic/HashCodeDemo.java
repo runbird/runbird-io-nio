@@ -20,5 +20,7 @@ public class HashCodeDemo {
         map.put(p1, "1");
         System.out.println(map.get(p2));
         System.out.println(p1.equals(p2));
+
+
     }
 }
